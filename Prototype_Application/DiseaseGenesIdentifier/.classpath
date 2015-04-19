@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java 7"/>
+	<classpathentry kind="lib" path="D:/IIT/l/Final_Year_Project/DNA_Inherit_Disease_Indentiyer/Sample_code/JGAP/ga-moving-example-1.0/libs/jgap.jar"/>
+	<classpathentry kind="lib" path="D:/IIT/l/Final_Year_Project/DNA_Inherit_Disease_Indentiyer/Sample_code/JGAP/ga-moving-example-1.0/libs/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/IIT/l/Final_Year_Project/DNA_Inherit_Disease_Indentiyer/Software/poi-bin-3.11-20141221/poi-3.11/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/IIT/l/Final_Year_Project/DNA_Inherit_Disease_Indentiyer/Sample_code/JGAP/jgap_3.6.2_full/lib/trove-2.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
